@@ -21,3 +21,7 @@
 2. 測試訊息可使用 tradingview alert 傳出之訊息
 3. 使用 insomnia 將訊號 post 至本地端 http://localhost:5000/webhook
 4. 確認沒問題即可將程式推上雲端主機完成運行
+
+###
+如果有任何問題歡迎提出issue, 或直接 email 我 parker178912.en08@nycu.edu.tw !!
+Feel free to post issue if there are some problems, or you can email me by parker178912.en08@nycu.edu.tw .
